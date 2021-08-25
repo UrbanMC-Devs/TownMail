@@ -1,0 +1,7 @@
+name: TownMail
+version: '${project.version}'
+main: net.lithosmc.townmail.TownMail
+api-version: 1.17
+depend: [ Essentials, Towny ]
+authors: [ Silverwolfg11 ]
+description: A towny addon adding a maillall sub-command to send Essentials mail to all residents within a town.
